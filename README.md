@@ -1,8 +1,7 @@
 # FoodWise-ML
 Mobile App Development "FoodWise" for 2023 Google Solution Challenge.
 
-Check FoodWise's services here https://www.notion.so/FoodWise-1-2e75aab203d14509a19c010d7c9c84f8
-
+Check FoodWise's services here https://www.notion.so/FoodWise-Instruction-231347e70ad6819691dbd20c9d2876a0?source=copy_link
 
 And this is Machine Learning code for image classification of korean food.
 
